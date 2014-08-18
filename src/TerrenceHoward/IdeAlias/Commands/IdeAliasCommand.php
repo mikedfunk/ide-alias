@@ -9,6 +9,10 @@ namespace TerrenceHoward\IdeAlias\Commands;
 
 use Config;
 use Illuminate\Console\Command;
+use ReflectionClass;
+use ReflectionMethod;
+use ReflectionProperty;
+use ReflectionParameter;
 
 /**
  * IdeAliasCommand
