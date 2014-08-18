@@ -7,6 +7,7 @@
  */
 namespace TerrenceHoward\IdeAlias\Commands;
 
+use Config;
 use Illuminate\Console\Command;
 
 /**
